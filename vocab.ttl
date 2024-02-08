@@ -23,3 +23,8 @@ rdfs:label "UI" ;
 rdfs:domain o:Resource ; 
 vs:term_status "experimental" .
 
+des:UX a rdf:Property ; 
+rdfs:label "UX" ; 
+rdfs:domain o:Resource ; 
+vs:term_status "experimental" .
+
