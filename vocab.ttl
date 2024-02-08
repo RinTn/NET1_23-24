@@ -13,7 +13,12 @@ vocab.ttl
 <Design> a owl:Ontology ;
     dcterms:title "Design" .
 
-fup8:Departement a rdfs:Class ;
-    rdfs:label "Département" ;
+fup8:Design a rdfs:Class ;
+    rdfs:label "Design" ;
+    rdfs:domain o:Resource ;
+    vs:term_status "experimental" .
+
+fup8:UI a rdf:Property ;
+    rdfs:label "Code EC" ;
     rdfs:domain o:Resource ;
     vs:term_status "experimental" .
