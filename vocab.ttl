@@ -32,3 +32,27 @@ desgn:hasUI a rdf:Property ;
     rdfs:comment "Relation avec l'UI" ;
     rdfs:domain o:Resource ;
     vs:term_status "experimental" .
+
+desgn:hasUI a rdf:Property ;
+    rdfs:label "Esthétique visuelle" ;
+    rdfs:comment "Relation avec l'UI" ;
+    rdfs:domain o:Resource ;
+    vs:term_status "experimental" .
+
+desgn:hasUI a rdf:Property ;
+    rdfs:label "Accessibilité" ;
+    rdfs:comment "Relation avec l'UI" ;
+    rdfs:domain o:Resource ;
+    vs:term_status "experimental" .
+
+desgn:hasUI a rdf:Property ;
+    rdfs:label "Cohérence" ;
+    rdfs:comment "Relation avec l'UI" ;
+    rdfs:domain o:Resource ;
+    vs:term_status "experimental" .
+
+desgn:hasUI a rdf:Property ;
+    rdfs:label "Hiérarchie visuelle" ;
+    rdfs:comment "Relation avec l'UI" ;
+    rdfs:domain o:Resource ;
+    vs:term_status "experimental" .
