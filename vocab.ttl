@@ -52,19 +52,19 @@ desgn:VoiceUI a rdfs:Class ;
     rdfs:domain o:Resource ;
     vs:term_status "experimental" .
 
-desgn:hasUI a rdf:Property ;
-    rdfs:label "Facilite d'utilisation" ;
+desgn:hasFacuti a rdf:Property ;
+    rdfs:label "Facilité d'utilisation" ;
     rdfs:comment "Relation avec l'UI" ;
     rdfs:domain o:Resource ;
     vs:term_status "experimental" .
 
-desgn:hasUI a rdf:Property ;
-    rdfs:label "Esthetique visuelle" ;
+desgn:hasEstVisu a rdf:Property ;
+    rdfs:label "Esthétique visuelle" ;
     rdfs:comment "Relation avec l'UI" ;
     rdfs:domain o:Resource ;
     vs:term_status "experimental" .
 
-desgn:hasUI a rdf:Property ;
+desgn:hasAccess a rdf:Property ;
     rdfs:label "Accessibilité" ;
     rdfs:comment "Relation avec l'UI" ;
     rdfs:domain o:Resource ;
