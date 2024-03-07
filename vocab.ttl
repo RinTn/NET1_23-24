@@ -38,3 +38,10 @@ desgn:hasUX a rdf:Property ;
     rdfs:comment "Relation avec l'UX" ;
     rdfs:domain o:Resource ;
     vs:term_status "experimental" .
+
+desgn:hasUX a rdf:Property ;
+    rdfs:label "Utilisabilité" ;
+    rdfs:comment "Relation avec l'UX" ;
+    rdfs:domain o:Resource ;
+    vs:term_status "experimental" .
+
