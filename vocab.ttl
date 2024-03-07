@@ -38,9 +38,3 @@ desgn:hasUX a rdf:Property ;
     rdfs:comment "Relation avec l'UI" ;
     rdfs:domain o:Resource ;
     vs:term_status "experimental" .
-
-desgn:hasInteractif a rdf:Property ;
-    rdfs:label "Réactivité" ;
-    rdfs:comment "Relation avec Interactif" ;
-    rdfs:domain o:Resource ;
-    vs:term_status "experimental" .
