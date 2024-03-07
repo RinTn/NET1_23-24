@@ -17,12 +17,12 @@ desgn:Design a rdfs:Class ;
     rdfs:domain o:Resource ;
     vs:term_status "experimental" .
 
-desgn:UIDesign a rdfs:Class ; 
+desgn:UI rdfs:Class ; 
     rdfs:label "UI Design" ; 
     rdfs:domain o:Resource ; 
     vs:term_status "experimental" .
 
-desgn:UXDesign a rdfs:Class ; 
+desgn:UX a rdfs:Class ; 
     rdfs:label "UX Design" ; 
     rdfs:domain o:Resource ; 
     vs:term_status "experimental" .
@@ -56,3 +56,34 @@ desgn:hasUI a rdf:Property ;
     rdfs:comment "Relation avec l'UI" ;
     rdfs:domain o:Resource ;
     vs:term_status "experimental" .
+
+desgn:hasUX a rdf:Property ;
+    rdfs:label "Utilité" ;
+    rdfs:comment "Relation avec l'UI" ;
+    rdfs:domain o:Resource ;
+    vs:term_status "experimental" .
+
+desgn:hasUX a rdf:Property ;
+    rdfs:label "Utilisabilité" ;
+    rdfs:comment "Relation avec l'UI" ;
+    rdfs:domain o:Resource ;
+    vs:term_status "experimental" .
+
+desgn:hasUX a rdf:Property ;
+    rdfs:label "Plaisir d'utilisation" ;
+    rdfs:comment "Relation avec l'UI" ;
+    rdfs:domain o:Resource ;
+    vs:term_status "experimental" .
+
+desgn:hasUX a rdf:Property ;
+    rdfs:label "Accessibilité" ;
+    rdfs:comment "Relation avec l'UI" ;
+    rdfs:domain o:Resource ;
+    vs:term_status "experimental" .
+
+desgn:hasUX a rdf:Property ;
+    rdfs:label "User-centered" ;
+    rdfs:comment "Relation avec l'UI" ;
+    rdfs:domain o:Resource ;
+    vs:term_status "experimental" .
+
