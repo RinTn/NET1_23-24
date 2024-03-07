@@ -13,11 +13,11 @@
     dcterms:title "Design" .
 
 desgn:UI a rdfs:Class ;
-    rdfs:label "UI" ;
+    rdfs:label "UI Design" ;
     rdfs:domain o:Resource ;
     vs:term_status "experimental" .
 
 desgn:UX a rdfs:Class ;
-    rdfs:label "UX" ;
+    rdfs:label "UX Design" ;
     rdfs:domain o:Resource ;
     vs:term_status "experimental" .
