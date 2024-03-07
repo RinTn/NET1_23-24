@@ -28,7 +28,7 @@ rdfs:domain o:Resource ;
 vs:term_status "experimental" .
 
 surv:hasUI a rdf:Property ;
-    rdfs:label "A comme loi" ;
+    rdfs:label "A comme règle" ;
     rdfs:comment "Relation avec l'UI" ;
     rdfs:domain o:Resource ;
     vs:term_status "experimental" .
