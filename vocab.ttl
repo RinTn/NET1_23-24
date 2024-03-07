@@ -27,6 +27,31 @@ desgn:Interactif a rdfs:Class ;
     rdfs:domain o:Resource ;
     vs:term_status "experimental" .
 
+desgn:Animation a rdfs:Class ;
+    rdfs:label "Design d'animation" ;
+    rdfs:domain o:Resource ;
+    vs:term_status "experimental" .
+
+desgn:Jeu a rdfs:Class ;
+    rdfs:label "Design de jeux vidéo" ;
+    rdfs:domain o:Resource ;
+    vs:term_status "experimental" .
+
+desgn:VR a rdfs:Class ;
+    rdfs:label "Design de réalité virtuelle" ;
+    rdfs:domain o:Resource ;
+    vs:term_status "experimental" .
+
+desgn:AR a rdfs:Class ;
+    rdfs:label "Design de réalité augmentée" ;
+    rdfs:domain o:Resource ;
+    vs:term_status "experimental" .
+
+desgn:VoiceUI a rdfs:Class ;
+    rdfs:label "Design d'interfaces vocales" ;
+    rdfs:domain o:Resource ;
+    vs:term_status "experimental" .
+
 desgn:hasUI a rdf:Property ;
     rdfs:label "Facilite d'utilisation" ;
     rdfs:comment "Relation avec l'UI" ;
