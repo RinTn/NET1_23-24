@@ -17,12 +17,12 @@ desgn:Design a rdfs:Class ;
     rdfs:domain o:Resource ;
     vs:term_status "experimental" .
 
-desgn:UI a rdf:Class ; 
+desgn:UI a rdfs:Class ; 
     rdfs:label "UI" ; 
     rdfs:domain o:Resource ; 
     vs:term_status "experimental" .
 
-desgn:UX a rdf:Class ; 
+desgn:UX a rdfs:Class ; 
     rdfs:label "UX" ; 
     rdfs:domain o:Resource ; 
     vs:term_status "experimental" .
