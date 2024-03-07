@@ -17,18 +17,18 @@ desgn:Design a rdfs:Class ;
     rdfs:domain o:Resource ;
     vs:term_status "experimental" .
 
-desgn:UI a rdfs:Class ; 
-    rdfs:label "UI" ; 
+desgn:UIDesign a rdfs:Class ; 
+    rdfs:label "UI Design" ; 
     rdfs:domain o:Resource ; 
     vs:term_status "experimental" .
 
-desgn:UX a rdfs:Class ; 
-    rdfs:label "UX" ; 
+desgn:UXDesign a rdfs:Class ; 
+    rdfs:label "UX Design" ; 
     rdfs:domain o:Resource ; 
     vs:term_status "experimental" .
 
 desgn:hasUI a rdf:Property ;
-    rdfs:label "A comme règle" ;
+    rdfs:label "Facilité d'utilisation" ;
     rdfs:comment "Relation avec l'UI" ;
     rdfs:domain o:Resource ;
     vs:term_status "experimental" .
