@@ -10,7 +10,7 @@ vocab.ttl
 @prefix foaf: <http://xmlns.com/foaf/0.1/>.
 @prefix schema: <http://schema.org/>.
 
-<https://jardindesconnaissances.univ-paris8.fr/onto/Design> a owl:Ontology ;
+<https://jardindesconnaissances.univ-paris8.fr/onto/desgn> a owl:Ontology ;
     dcterms:title "DESIGN" .
 
 desgn:Design a rdfs:Class ;
