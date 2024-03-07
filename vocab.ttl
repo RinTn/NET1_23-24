@@ -12,8 +12,8 @@
 <https://jardindesconnaissances.univ-paris8.fr/onto/desgn> a owl:Ontology ;
     dcterms:title "Design" .
 
-desgn:Design a rdfs:Class ;
-    rdfs:label "Design" ;
+desgn:Designnum a rdfs:Class ;
+    rdfs:label "Designnum" ;
     rdfs:domain o:Resource ;
     vs:term_status "experimental" .
 
@@ -26,3 +26,5 @@ desgn:UX a rdfs:Class ;
     rdfs:label "UX Design" ; 
     rdfs:domain o:Resource ; 
     vs:term_status "experimental" .
+
+
