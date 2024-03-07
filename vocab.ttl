@@ -38,12 +38,12 @@ desgn:Jeu a rdfs:Class ;
     vs:term_status "experimental" .
 
 desgn:VR a rdfs:Class ;
-    rdfs:label "Design de réalité virtuelle" ;
+    rdfs:label "Design de realite virtuelle" ;
     rdfs:domain o:Resource ;
     vs:term_status "experimental" .
 
 desgn:AR a rdfs:Class ;
-    rdfs:label "Design de réalité augmentée" ;
+    rdfs:label "Design de realite augmentee" ;
     rdfs:domain o:Resource ;
     vs:term_status "experimental" .
 
