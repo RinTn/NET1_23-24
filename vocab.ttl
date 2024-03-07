@@ -10,7 +10,7 @@
 @prefix schema: <http://schema.org/>.
 
 <https://jardindesconnaissances.univ-paris8.fr/onto/desgn> a owl:Ontology ;
-    dcterms:title "DesignNum" .
+    dcterms:title "Design" .
 
 desgn:UI a rdfs:Class ;
     rdfs:label "UI" ;
