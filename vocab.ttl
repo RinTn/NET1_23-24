@@ -33,25 +33,25 @@ desgn:Interactif a rdfs:Class ;
     vs:term_status "experimental" .
 
 desgn:hasUI a rdf:Property ;
-    rdfs:label "Facilité d'utilisation" ;
+    rdfs:label "Facilite d'utilisation" ;
     rdfs:comment "Relation avec l'UI" ;
     rdfs:domain o:Resource ;
     vs:term_status "experimental" .
 
 desgn:hasUI a rdf:Property ;
-    rdfs:label "Esthétique visuelle" ;
+    rdfs:label "Esthetique visuelle" ;
     rdfs:comment "Relation avec l'UI" ;
     rdfs:domain o:Resource ;
     vs:term_status "experimental" .
 
 desgn:hasUI a rdf:Property ;
-    rdfs:label "Accessibilité" ;
+    rdfs:label "Accessibilite" ;
     rdfs:comment "Relation avec l'UI" ;
     rdfs:domain o:Resource ;
     vs:term_status "experimental" .
 
 desgn:hasUI a rdf:Property ;
-    rdfs:label "Cohérence" ;
+    rdfs:label "Coherence" ;
     rdfs:comment "Relation avec l'UI" ;
     rdfs:domain o:Resource ;
     vs:term_status "experimental" .
@@ -63,7 +63,7 @@ desgn:hasUI a rdf:Property ;
     vs:term_status "experimental" .
 
 desgn:hasUX a rdf:Property ;
-    rdfs:label "Utilité" ;
+    rdfs:label "Utilite" ;
     rdfs:comment "Relation avec l'UI" ;
     rdfs:domain o:Resource ;
     vs:term_status "experimental" .
@@ -81,7 +81,7 @@ desgn:hasUX a rdf:Property ;
     vs:term_status "experimental" .
 
 desgn:hasUX a rdf:Property ;
-    rdfs:label "Accessibilité" ;
+    rdfs:label "Accessibilite" ;
     rdfs:comment "Relation avec l'UI" ;
     rdfs:domain o:Resource ;
     vs:term_status "experimental" .
