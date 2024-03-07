@@ -21,3 +21,8 @@ desgn:UX a rdfs:Class ;
     rdfs:label "UX Design" ;
     rdfs:domain o:Resource ;
     vs:term_status "experimental" .
+
+desgn:Interactif a rdfs:Class ; 
+    rdfs:label "Design interactif" ; 
+    rdfs:domain o:Resource ; 
+    vs:term_status "experimental" .
