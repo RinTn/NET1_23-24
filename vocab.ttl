@@ -35,6 +35,6 @@ desgn:hasUI a rdf:Property ;
 
 desgn:hasUX a rdf:Property ;
     rdfs:label "Utilite" ;
-    rdfs:comment "Relation avec l'UI" ;
+    rdfs:comment "Relation avec l'UX" ;
     rdfs:domain o:Resource ;
     vs:term_status "experimental" .
