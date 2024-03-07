@@ -33,8 +33,8 @@ desgn:hasUI a rdf:Property ;
     rdfs:domain o:Resource ;
     vs:term_status "experimental" .
 
-desgn:hasUI a rdf:Property ;
-    rdfs:label "Esthetique visuelle" ;
-    rdfs:comment "Relation avec l'UI" ;
+desgn:hasUX a rdf:Property ;
+    rdfs:label "Utilité" ;
+    rdfs:comment "Relation avec l'UX" ;
     rdfs:domain o:Resource ;
     vs:term_status "experimental" .
