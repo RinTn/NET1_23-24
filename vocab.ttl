@@ -12,11 +12,6 @@
 <https://jardindesconnaissances.univ-paris8.fr/onto/desgn> a owl:Ontology ;
     dcterms:title "Design" .
 
-desgn:Design a rdfs:Class ;
-    rdfs:label "Design" ;
-    rdfs:domain o:Resource ;
-    vs:term_status "experimental" .
-
 desgn:UI rdfs:Class ; 
     rdfs:label "UI Design" ; 
     rdfs:domain o:Resource ; 
@@ -38,74 +33,14 @@ desgn:hasUI a rdf:Property ;
     rdfs:domain o:Resource ;
     vs:term_status "experimental" .
 
-desgn:hasUI a rdf:Property ;
-    rdfs:label "Esthetique visuelle" ;
-    rdfs:comment "Relation avec l'UI" ;
-    rdfs:domain o:Resource ;
-    vs:term_status "experimental" .
-
-desgn:hasUI a rdf:Property ;
-    rdfs:label "Accessibilite" ;
-    rdfs:comment "Relation avec l'UI" ;
-    rdfs:domain o:Resource ;
-    vs:term_status "experimental" .
-
-desgn:hasUI a rdf:Property ;
-    rdfs:label "Coherence" ;
-    rdfs:comment "Relation avec l'UI" ;
-    rdfs:domain o:Resource ;
-    vs:term_status "experimental" .
-
-desgn:hasUI a rdf:Property ;
-    rdfs:label "Hiérarchie visuelle" ;
-    rdfs:comment "Relation avec l'UI" ;
-    rdfs:domain o:Resource ;
-    vs:term_status "experimental" .
-
 desgn:hasUX a rdf:Property ;
     rdfs:label "Utilite" ;
     rdfs:comment "Relation avec l'UI" ;
     rdfs:domain o:Resource ;
     vs:term_status "experimental" .
 
-desgn:hasUX a rdf:Property ;
-    rdfs:label "Utilisabilité" ;
-    rdfs:comment "Relation avec l'UI" ;
-    rdfs:domain o:Resource ;
-    vs:term_status "experimental" .
-
-desgn:hasUX a rdf:Property ;
-    rdfs:label "Plaisir d'utilisation" ;
-    rdfs:comment "Relation avec l'UI" ;
-    rdfs:domain o:Resource ;
-    vs:term_status "experimental" .
-
-desgn:hasUX a rdf:Property ;
-    rdfs:label "Accessibilite" ;
-    rdfs:comment "Relation avec l'UI" ;
-    rdfs:domain o:Resource ;
-    vs:term_status "experimental" .
-
-desgn:hasUX a rdf:Property ;
-    rdfs:label "User-centered" ;
-    rdfs:comment "Relation avec l'UI" ;
-    rdfs:domain o:Resource ;
-    vs:term_status "experimental" .
-
 desgn:hasInteractif a rdf:Property ;
     rdfs:label "Réactivité" ;
-    rdfs:comment "Relation avec Design Interactif" ;
-    rdfs:domain o:Resource ;
-    vs:term_status "experimental" .
-
-desgn:hasInteractif a rdf:Property ;
-    rdfs:label "Dynamisme" ;
-    rdfs:comment "Relation avec Design Interactif" ;
-    rdfs:domain o:Resource ;
-    vs:term_status "experimental" .
-
-desgn:hasInteractif a rdf:Property ;
-    rdfs:label "Engagement" ;
-    rdfs:comment "Relation avec Design Interactif" ;
+    rdfs:comment "Relation avec Interactif" ;
     rdfs:domain o:Resource ;
     vs:term_status "experimental" .
