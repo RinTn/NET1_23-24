@@ -22,6 +22,11 @@ desgn:UX a rdfs:Class ;
     rdfs:domain o:Resource ;
     vs:term_status "experimental" .
 
+desgn:Interactif a rdfs:Class ;
+    rdfs:label "Design Interactif" ;
+    rdfs:domain o:Resource ;
+    vs:term_status "experimental" .
+
 desgn:hasUI a rdf:Property ;
     rdfs:label "Facilite d'utilisation" ;
     rdfs:comment "Relation avec l'UI" ;
