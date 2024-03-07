@@ -5,7 +5,7 @@ vocab.ttl
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix vs: <http://www.w3.org/2003/06/sw-vocab-status/ns#> .
 @prefix o: <http://omeka.org/s/vocabs/o#> .
-@prefix des: <https://jardindesconnaissances.univ-paris8.fr/onto/des#> .
+@prefix des: <https://jardindesconnaissances.univ-paris8.fr/onto/desgn#> .
 @prefix teach: <http://linkedscience.org/teach/ns#> .
 @prefix foaf: <http://xmlns.com/foaf/0.1/>.
 @prefix schema: <http://schema.org/>.
@@ -13,12 +13,12 @@ vocab.ttl
 <https://jardindesconnaissances.univ-paris8.fr/onto/Design> a owl:Ontology ;
     dcterms:title "DESIGN" .
 
-des:Design a rdfs:Class ;
+desgn:Design a rdfs:Class ;
     rdfs:label "Design" ;
     rdfs:domain o:Resource ;
     vs:term_status "experimental" .
 
-des:UI a rdf:Property ; 
+desgn:UI a rdf:Property ; 
 rdfs:label "UI" ; 
 rdfs:domain o:Resource ; 
 vs:term_status "experimental" .
@@ -28,7 +28,7 @@ rdfs:label "UX" ;
 rdfs:domain o:Resource ; 
 vs:term_status "experimental" .
 
-des:Copyright a rdf:Property ; 
+desgn:Copyright a rdf:Property ; 
 rdfs:label "Copyright" ; 
 rdfs:domain o:Resource ; 
 vs:term_status "experimental" .
