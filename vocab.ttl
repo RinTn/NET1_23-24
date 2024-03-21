@@ -112,14 +112,62 @@ desgn:hasUXusercenter a rdf:Property ;
     rdfs:domain o:Resource ;
     vs:term_status "experimental" .
 
-desgn:hasInteractif a rdf:Property ;
+desgn:hasInteractifreac a rdf:Property ;
     rdfs:label "Réactivité" ;
     rdfs:comment "Relation avec l'Interactif" ;
     rdfs:domain o:Resource ;
     vs:term_status "experimental" .
 
-desgn:hasInteractif a rdf:Property ;
-    rdfs:label "Réactivité" ;
+desgn:hasInteractifdyn a rdf:Property ;
+    rdfs:label "Dynamisme" ;
     rdfs:comment "Relation avec l'Interactif" ;
+    rdfs:domain o:Resource ;
+    vs:term_status "experimental" .
+
+desgn:hasInteractifengage a rdf:Property ;
+    rdfs:label "Engagement" ;
+    rdfs:comment "Relation avec l'Interactif" ;
+    rdfs:domain o:Resource ;
+    vs:term_status "experimental" .
+
+desgn:hasInteractifinterac a rdf:Property ;
+    rdfs:label "Interactivité" ;
+    rdfs:comment "Relation avec l'Interactif" ;
+    rdfs:domain o:Resource ;
+    vs:term_status "experimental" .
+
+desgn:hasInteractifreal a rdf:Property ;
+    rdfs:label "Réalisme" ;
+    rdfs:comment "Relation avec l'Interactif" ;
+    rdfs:domain o:Resource ;
+    vs:term_status "experimental" .
+
+desgn:hasAnimationfluid a rdf:Property ;
+    rdfs:label "Fluidité" ;
+    rdfs:comment "Relation avec l'Animation" ;
+    rdfs:domain o:Resource ;
+    vs:term_status "experimental" .
+
+desgn:hasAnimationtim a rdf:Property ;
+    rdfs:label "Timing" ;
+    rdfs:comment "Relation avec l'Animation" ;
+    rdfs:domain o:Resource ;
+    vs:term_status "experimental" .
+
+desgn:hasAnimationimpact a rdf:Property ;
+    rdfs:label "Impact émotionnel" ;
+    rdfs:comment "Relation avec l'Animation" ;
+    rdfs:domain o:Resource ;
+    vs:term_status "experimental" .
+
+desgn:hasAnimationcompr a rdf:Property ;
+    rdfs:label "Compréhension" ;
+    rdfs:comment "Relation avec l'Animation" ;
+    rdfs:domain o:Resource ;
+    vs:term_status "experimental" .
+
+desgn:hasAnimationconstyle a rdf:Property ;
+    rdfs:label "Consistance de style" ;
+    rdfs:comment "Relation avec l'Animation" ;
     rdfs:domain o:Resource ;
     vs:term_status "experimental" .
