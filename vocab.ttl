@@ -171,3 +171,63 @@ desgn:hasAnimationconstyle a rdf:Property ;
     rdfs:comment "Relation avec l'Animation" ;
     rdfs:domain o:Resource ;
     vs:term_status "experimental" .
+
+desgn:hasGamejouab a rdf:Property ;
+    rdfs:label "Jouabilité" ;
+    rdfs:comment "Relation avec le jeu vidéo" ;
+    rdfs:domain o:Resource ;
+    vs:term_status "experimental" .
+
+desgn:hasGameimmers a rdf:Property ;
+    rdfs:label "Immersion" ;
+    rdfs:comment "Relation avec le jeu vidéo" ;
+    rdfs:domain o:Resource ;
+    vs:term_status "experimental" .
+
+desgn:hasGamenarrat a rdf:Property ;
+    rdfs:label "Narration" ;
+    rdfs:comment "Relation avec le jeu vidéo" ;
+    rdfs:domain o:Resource ;
+    vs:term_status "experimental" .
+
+desgn:hasGamemeca a rdf:Property ;
+    rdfs:label "Mécaniques de jeu" ;
+    rdfs:comment "Relation avec le jeu vidéo" ;
+    rdfs:domain o:Resource ;
+    vs:term_status "experimental" .
+
+desgn:hasGamereward a rdf:Property ;
+    rdfs:label "Récompenses et incitations" ;
+    rdfs:comment "Relation avec le jeu vidéo" ;
+    rdfs:domain o:Resource ;
+    vs:term_status "experimental" .
+
+desgn:hasVRimm a rdf:Property ;
+    rdfs:label "Immersion" ;
+    rdfs:comment "Relation avec la réalité virtuelle" ;
+    rdfs:domain o:Resource ;
+    vs:term_status "experimental" .
+
+desgn:hasVRconf a rdf:Property ;
+    rdfs:label "Confort" ;
+    rdfs:comment "Relation avec la réalité virtuelle" ;
+    rdfs:domain o:Resource ;
+    vs:term_status "experimental" .
+
+desgn:hasVRreal a rdf:Property ;
+    rdfs:label "Réalisme" ;
+    rdfs:comment "Relation avec la réalité virtuelle" ;
+    rdfs:domain o:Resource ;
+    vs:term_status "experimental" .
+
+desgn:hasVRinterac a rdf:Property ;
+    rdfs:label "Interaction" ;
+    rdfs:comment "Relation avec la réalité virtuelle" ;
+    rdfs:domain o:Resource ;
+    vs:term_status "experimental" .
+
+desgn:hasVRinterac a rdf:Property ;
+    rdfs:label "Performance" ;
+    rdfs:comment "Relation avec la réalité virtuelle" ;
+    rdfs:domain o:Resource ;
+    vs:term_status "experimental" .
