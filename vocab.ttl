@@ -76,14 +76,38 @@ desgn:hasUI a rdf:Property ;
     rdfs:domain o:Resource ;
     vs:term_status "experimental" .
 
-desgn:hasUI a rdf:Property ;
+desgn:hasUIhierarchivisu a rdf:Property ;
     rdfs:label "Hiérarchie visuelle" ;
     rdfs:comment "Relation avec l'UI" ;
     rdfs:domain o:Resource ;
     vs:term_status "experimental" .
 
-desgn:hasUX a rdf:Property ;
+desgn:hasUXutil a rdf:Property ;
     rdfs:label "Utilité" ;
+    rdfs:comment "Relation avec l'UX" ;
+    rdfs:domain o:Resource ;
+    vs:term_status "experimental" .
+
+desgn:hasUXutilisabilit a rdf:Property ;
+    rdfs:label "Utilisabilité" ;
+    rdfs:comment "Relation avec l'UX" ;
+    rdfs:domain o:Resource ;
+    vs:term_status "experimental" .
+
+desgn:hasUXplaisirutil a rdf:Property ;
+    rdfs:label "Plaisir d'utilisation" ;
+    rdfs:comment "Relation avec l'UX" ;
+    rdfs:domain o:Resource ;
+    vs:term_status "experimental" .
+
+desgn:hasUXaccessbilit a rdf:Property ;
+    rdfs:label "Accessibilité" ;
+    rdfs:comment "Relation avec l'UX" ;
+    rdfs:domain o:Resource ;
+    vs:term_status "experimental" .
+
+desgn:hasUXusercenter a rdf:Property ;
+    rdfs:label "Utilisateur centré" ;
     rdfs:comment "Relation avec l'UX" ;
     rdfs:domain o:Resource ;
     vs:term_status "experimental" .
@@ -94,3 +118,8 @@ desgn:hasInteractif a rdf:Property ;
     rdfs:domain o:Resource ;
     vs:term_status "experimental" .
 
+desgn:hasInteractif a rdf:Property ;
+    rdfs:label "Réactivité" ;
+    rdfs:comment "Relation avec l'Interactif" ;
+    rdfs:domain o:Resource ;
+    vs:term_status "experimental" .
