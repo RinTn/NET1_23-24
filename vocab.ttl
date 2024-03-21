@@ -231,3 +231,63 @@ desgn:hasVRinterac a rdf:Property ;
     rdfs:comment "Relation avec la réalité virtuelle" ;
     rdfs:domain o:Resource ;
     vs:term_status "experimental" .
+
+desgn:hasARintcont a rdf:Property ;
+    rdfs:label "Intégration contextuelle" ;
+    rdfs:comment "Relation avec la réalité augmentée" ;
+    rdfs:domain o:Resource ;
+    vs:term_status "experimental" .
+
+desgn:hasARutil a rdf:Property ;
+    rdfs:label "Utilité" ;
+    rdfs:comment "Relation avec la réalité augmentée" ;
+    rdfs:domain o:Resource ;
+    vs:term_status "experimental" .
+
+desgn:hasARinteract a rdf:Property ;
+    rdfs:label "Interactivité" ;
+    rdfs:comment "Relation avec la réalité augmentée" ;
+    rdfs:domain o:Resource ;
+    vs:term_status "experimental" .
+
+desgn:hasARaccess a rdf:Property ;
+    rdfs:label "Accessibilité" ;
+    rdfs:comment "Relation avec la réalité augmentée" ;
+    rdfs:domain o:Resource ;
+    vs:term_status "experimental" .
+
+desgn:hasARperf a rdf:Property ;
+    rdfs:label "Performance" ;
+    rdfs:comment "Relation avec la réalité augmentée" ;
+    rdfs:domain o:Resource ;
+    vs:term_status "experimental" .
+
+desgn:hasVoiceUIcomp a rdf:Property ;
+    rdfs:label "Compréhension" ;
+    rdfs:comment "Relation avec les interfaces vocales" ;
+    rdfs:domain o:Resource ;
+    vs:term_status "experimental" .
+
+desgn:hasVoiceUIconv a rdf:Property ;
+    rdfs:label "Nature conversationnelle" ;
+    rdfs:comment "Relation avec les interfaces vocales" ;
+    rdfs:domain o:Resource ;
+    vs:term_status "experimental" .
+
+desgn:hasVoiceUIfbvoc a rdf:Property ;
+    rdfs:label "Feedback vocal" ;
+    rdfs:comment "Relation avec les interfaces vocales" ;
+    rdfs:domain o:Resource ;
+    vs:term_status "experimental" .
+
+desgn:hasVoiceUIcontvoc a rdf:Property ;
+    rdfs:label "Contrôle vocal" ;
+    rdfs:comment "Relation avec les interfaces vocales" ;
+    rdfs:domain o:Resource ;
+    vs:term_status "experimental" .
+
+desgn:hasVoiceUIpersonnali a rdf:Property ;
+    rdfs:label "Personnalisation" ;
+    rdfs:comment "Relation avec les interfaces vocales" ;
+    rdfs:domain o:Resource ;
+    vs:term_status "experimental" .
