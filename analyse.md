@@ -17,3 +17,4 @@ Design d'interfaces vocales
 
 
 les items (56):
+Pour chaque ressource template, j'ai choisi de mettre 
