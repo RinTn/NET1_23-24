@@ -2,10 +2,10 @@
 
 expliquer votre travail concernant :
 le vocabulaire:
-
-lié au différent type de design numérique ainsi que les différents critères de ceux-ci.
+J'ai choisi de traité un vocabulaire qui serait lié aux différents types de design numérique ainsi que les différents critères de ceux-ci.
 
 les ressource template (8):
+En ressource template j'ai donc choisi: 
 Conception d'interfaces utilisateur (UI Design)
 Conception d'expérience utilisateur (UX Design)
 Design interactif
