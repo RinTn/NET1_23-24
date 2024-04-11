@@ -6,6 +6,7 @@ J'ai choisi de traité un vocabulaire qui serait lié aux différents types de d
 
 les ressource template (8):
 En ressource template j'ai donc choisi: 
+
 -Ressource template: Evaluation des critères de conception d'interfaces utilisateur d'un site: 
 Items: Facilité d'utilisation, Esthétique visuelle, Accessibilité, Cohérence, Hiérarchie visuelle
 -Ressource template: Evaluation des critères de conception d'expérience utilisateur d'un site:
