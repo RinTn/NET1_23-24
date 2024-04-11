@@ -6,15 +6,22 @@ J'ai choisi de traité un vocabulaire qui serait lié aux différents types de d
 
 les ressource template (8):
 En ressource template j'ai donc choisi: 
-Conception d'interfaces utilisateur (UI Design)
-Conception d'expérience utilisateur (UX Design)
-Design interactif
-Design d'animation
-Design de jeux vidéo
-Design de réalité virtuelle
-Design de réalité augmentée
-Design d'interfaces vocales
-
+-Ressource template: Evaluation des critères de conception d'interfaces utilisateur d'un site: 
+Items: Facilité d'utilisation, Esthétique visuelle, Accessibilité, Cohérence, Hiérarchie visuelle
+-Ressource template: Evaluation des critères de conception d'expérience utilisateur d'un site:
+Items: Utilisateur centré, Accessibilité, Plaisir d'utilisation, Utilisabilité, Utilité
+-Ressource template: Evaluation des critères de design de réalité augmentée d'une application: 
+Items: Intégration contextuelle, Utilité, Interactivité, Accessibilité, Performance
+-Ressource template: Evaluation des critères de design interactif: 
+Items: Dynamisme, Engagement, Interactivité, Réalisme, Réactivité
+-Ressource template: Evaluation des critères de design d'animation pour un film:
+Items: Fluidité, Timing, Impact émotionnel, Compréhension, Consistance de style
+-Ressource template: Evaluation des critères de design d'un jeu vidéo: 
+Items: Jouabilité, Immersion, Narration, Mécaniques de jeu, Récompenses et incitations
+-Ressource template: Evaluation des critères de design de réalité virtuelle:
+Items: Immersion, Confort, Réalisme, Interaction, Performance
+-Ressource template: Evaluation des critères d'interfaces vocales d'une application
+Items: Feedback vocal, Contrôle vocal, Nature conversationnelle, Compréhension, Personnalisation
 
 les items (56):
 Pour chaque ressource template, j'ai choisi de mettre 
