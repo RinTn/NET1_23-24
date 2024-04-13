@@ -2,9 +2,9 @@
 
 **Vocabulaire**
 
-J'ai choisi de traité un vocabulaire qui serait lié aux différents types de design numérique ainsi que les différents critères de ceux-ci.
- "c'est une nécessité fondamentale pour tout créateur aspirant à concevoir des expériences numériques remarquables"
- Chaque branche de ce domaine, qu'il s'agisse de la Conception d'Interfaces Utilisateur (UI Design) avec son souci du détail esthétique et de la fonctionnalité pratique, ou de la Conception d'Expérience Utilisateur (UX Design) avec son engagement profond envers la compréhension des besoins des utilisateurs et leur satisfaction, possède son propre langage distinct. Les distinctions entre le Design Interactif, le Design d'Animation, le Design de Jeux Vidéo, le Design de Réalité Virtuelle (VR), le Design de Réalité Augmentée (AR) et le Design d'Interfaces Vocales (Voice UI) ajoutent des teintes uniques à la palette variée du design numérique.
+J'ai choisi de traité un vocabulaire qui serait lié aux différents types de design numérique ainsi que les différents critères de ceux-ci. C'est un domaine qui m'interesse et dont j'ai pu développer certaines compétences à l'issu de mes études. J'ai pû remarquer qu'il était primordial d'avoir une liste de critères à respecter pour pouvoir conçevoir. 
+
+Chaque branche de ce domaine, qu'il s'agisse de la Conception d'Interfaces Utilisateur (UI Design) avec son souci du détail esthétique et de la fonctionnalité pratique, ou de la Conception d'Expérience Utilisateur (UX Design) avec son engagement profond envers la compréhension des besoins des utilisateurs et leur satisfaction, possède son propre langage distinct. Les distinctions entre le Design Interactif, le Design d'Animation, le Design de Jeux Vidéo, le Design de Réalité Virtuelle (VR), le Design de Réalité Augmentée (AR) et le Design d'Interfaces Vocales (Voice UI) ajoutent des teintes uniques à la palette variée du design numérique.
  
 Chaque domaine du design numérique repose sur ses propres fondements, méthodes et instruments. Par exemple, le UI Design se focalise sur la disposition visuelle des éléments à l'écran, tandis que le UX Design explore en profondeur l'expérience de l'utilisateur, en analysant chaque interaction pour concevoir un parcours utilisateur fluide et satisfaisant. Le Design de Jeux Vidéo aspire à captiver l'imagination et à susciter l'engagement grâce à des mécaniques de jeu novatrices, tandis que le Design de Réalité Virtuelle (VR) transporte les utilisateurs vers des univers immersifs et interactifs.
 
@@ -20,14 +20,17 @@ Les critères de design de réalité augmentée (AR) sont essentiels pour créer
 
 Les critères de design interactif mettent l'accent sur l'engagement de l'utilisateur à travers des interactions dynamiques et stimulantes. En intégrant ces critères dans la conception, je cherche à créer des expériences numériques qui captivent et impliquent activement les utilisateurs.
 
-Les critères de design d'animation sont cruciaux pour donner vie à une interface numérique en ajoutant des mouvements fluides et expressifs. En respectant ces critères, je cherche à créer des animations qui renforcent l'expérience utilisateur et rendent l'interface plus attrayante et dynamique.
+Les critères de design d'animation sont cruciaux pour donner vie à une interface numérique en ajoutant des mouvements fluides et expressifs. En respectant ces critères, on peut créer des animations qui renforcent l'expérience utilisateur et rendent l'interface plus attrayante et dynamique.
 
 Les critères de design d'un jeu vidéo définissent les éléments clés qui contribuent à une expérience de jeu immersive et gratifiante. En tenant compte de ces critères, on peut arriver à créer des jeux vidéo captivants et divertissants qui offrent une expérience mémorable aux joueurs.
 
-Les critères de design de réalité virtuelle (VR) sont conçus pour créer des mondes virtuels réalistes et immersifs. En utilisant ces critères, je cherche à concevoir des expériences VR qui transportent les utilisateurs dans des environnements fascinants et interactifs.
+Les critères de design de réalité virtuelle (VR) sont conçus pour créer des mondes virtuels réalistes et immersifs. En utilisant ces critères,on peut concevoir des expériences VR qui transportent les utilisateurs dans des environnements fascinants et interactifs.
 
-Enfin, les critères d'interfaces vocales d'une application définissent les normes pour une interaction vocale fluide et intuitive. En suivant ces critères, je crée des interfaces vocales conviviales qui permettent aux utilisateurs de communiquer naturellement avec les applications.
+Enfin, les critères d'interfaces vocales d'une application définissent les normes pour une interaction vocale fluide et intuitive. En suivant ces critères, on peut créer des interfaces vocales conviviales qui permettent aux utilisateurs de communiquer naturellement avec les applications.
 
 **Items**
 
-Ensuite, j'ai idenitifer plusieurs  les items à prendre en compte lors de la conception, plusieurs éléments sont essentiels. IL y a par exemple la facilité d'utilisation afin de garantir une interaction fluide entre l'utilisateur et l'interface. L'accessibilité est un autre critère important puisqu'elle assure que l'interface est utilisable par tous, y compris les personnes handicapées par exemple. La cohérence est également importante pour créer un sentiment d'homogénéité à travers toutes les interactions avec l'interface. On retrouve aussi l'utilité de l'interface, c'est-à-dire sa capacité à répondre aux besoins et aux objectifs des utilisateurs. L'engagement pour maintenir l'intérêt de l'utilisateur et prolonger son interaction avec l'interface entre autre. La réactivité garantit une expérience utilisateur fluide et réactive, en minimisant les temps de chargement et en offrant des réponses instantanées aux actions de l'utilisateur.
+Ensuite, j'ai identifié plusieurs éléments essentiels à prendre en compte lors de la conception. Pour chaque ressource template, j'ai créé un item "évaluation des critères", auquel j'ai associé les différents items correspondant aux critères spécifiques. Par exemple, pour la ressource template "critères de conception d'expérience utilisateur", il existe un item "Évaluation des critères de conception d'expérience utilisateur d'un site" qui relie ces 5 items à la ressource template : Utilisateur centré, Accessibilité, Plaisir d'utilisation, Utilisabilité, Utilité. 
+Pour la ressource template "critères de conception de réalité augmentée", il existe un item "Évaluation des critères de conception de réalité augmentée d'une application" qui relie ces 5 items à la ressource template : Intégration contextuelle, Utilité, Interactivité, Accessibilité, Performance.
+
+Exemple en lien: https://net-24.jardindesconnaissances.fr/admin/item/261#item-metadata
