@@ -6,7 +6,7 @@ J'ai choisi de traité un vocabulaire qui serait lié aux différents types de d
 
 Chaque branche de ce domaine possède son propre langage distinct: la Conception d'Interfaces Utilisateur (UI Design) avec son souci du détail esthétique et de la fonctionnalité pratique,la Conception d'Expérience Utilisateur (UX Design) avec la compréhension des besoins des utilisateurs et leur satisfaction par exemple. Les distinctions entre le Design Interactif, le Design d'Animation, le Design de Jeux Vidéo, le Design de Réalité Virtuelle (VR), le Design de Réalité Augmentée (AR) et le Design d'Interfaces Vocales (Voice UI) ajoutent des langages uniques au design numérique.
  
-Aussi chaque branche repose sur ses propres fondements, méthodes et instruments. Par exemple, le UI Design se focalise sur la disposition visuelle des éléments à l'écran, tandis que le UX Design explore en profondeur l'expérience de l'utilisateur, en analysant chaque interaction pour concevoir un parcours utilisateur simple d'utilisation. Le Design de Jeux Vidéo essaye de captiver l'imagination et aussi de susciter l'engagement grâce à des mécaniques de jeu , tandis que le Design de Réalité Virtuelle (VR) transporte les utilisateurs vers des univers immersifs et interactifs.
+Aussi chaque branche repose sur ses propres fondements, méthodes et instruments.
 
 **Ressource template**
 
