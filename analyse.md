@@ -2,7 +2,7 @@
 
 **Vocabulaire**
 
-J'ai choisi de traité un vocabulaire qui serait lié aux différents types de design numérique ainsi que les différents critères de ceux-ci. C'est un domaine qui m'interesse et dont j'ai pu développer certaines compétences à l'issu de mes études. J'ai pû remarquer qu'il était primordial d'avoir une liste de critères à respecter pour pouvoir conçevoir une application, un site web, un jeu vidéo par exemple. 
+J'ai choisi de traité un vocabulaire qui serait lié aux différents types de design numérique ainsi que les différents critères de ceux-ci. C'est un domaine qui m'intéresse et dont j'ai pu développer certaines compétences à l'issu de mes études. J'ai pû remarquer qu'il était primordial d'avoir une liste de critères à respecter pour pouvoir conçevoir une application, un site web, un jeu vidéo par exemple. 
 
 Chaque branche de ce domaine possède son propre langage distinct: la Conception d'Interfaces Utilisateur (UI Design) avec son souci du détail esthétique et de la fonctionnalité pratique,la Conception d'Expérience Utilisateur (UX Design) avec la compréhension des besoins des utilisateurs et leur satisfaction par exemple. Les distinctions entre le Design Interactif, le Design d'Animation, le Design de Jeux Vidéo, le Design de Réalité Virtuelle (VR), le Design de Réalité Augmentée (AR) et le Design d'Interfaces Vocales (Voice UI) ajoutent des langages uniques au design numérique.
  
@@ -10,7 +10,7 @@ Aussi chaque branche repose sur ses propres fondements, méthodes et instruments
 
 **Ressource template**
 
-J'ai choisi ces ressources templates pour plusieurs raisons . Chacune de ces ressources représente une classe distincte de design numérique, et en rassemblant des critères spécifiques pour chacune d'entre elles,on peut créer un ensemble complet de ressources pour guider le processus de conception dans des domaines variés et spécialisés.
+J'ai choisi ces ressources templates pour plusieurs raisons . Chacune de ces ressources représente une classe distincte de design numérique, et en rassemblant des critères spécifiques pour chacune d'entre elles,on peut créer un ensemble complet de ressources pour guider le processus de conception dans des domaines spécialisés:
 
 -Les critères de conception d'interfaces utilisateur (UI) définissent les standards visuelles et fonctionnelles qui garantissent une interface dite intuitive. On doit alors s'assurer que chaque élément de l'interface utilisateur est soigneusement conçu pour offrir une expérience utilisateur 'optimale'.
 
