@@ -33,4 +33,4 @@ J'ai choisi ces ressources templates pour plusieurs raisons . Chacune de ces res
 Ensuite, j'ai identifié plusieurs éléments essentiels à prendre en compte lors de la conception. Pour chaque ressource template, j'ai créé un item "évaluation des critères", auquel j'ai associé les différents items correspondant aux critères spécifiques. Par exemple, pour la ressource template "critères de conception d'expérience utilisateur", il existe un item "Évaluation des critères de conception d'expérience utilisateur d'un site" qui relie ces 5 items à la ressource template : Utilisateur centré, Accessibilité, Plaisir d'utilisation, Utilisabilité, Utilité. 
 Pour la ressource template "critères de conception de réalité augmentée", il existe un item "Évaluation des critères de conception de réalité augmentée d'une application" qui relie ces 5 items à la ressource template : Intégration contextuelle, Utilité, Interactivité, Accessibilité, Performance.
 
-Exemple en lien: https://net-24.jardindesconnaissances.fr/admin/item/261#item-metadata
+Exemple en lien:< a href=" https://net-24.jardindesconnaissances.fr/admin/item/261#item-metadata" > Ressource Template < /a >
